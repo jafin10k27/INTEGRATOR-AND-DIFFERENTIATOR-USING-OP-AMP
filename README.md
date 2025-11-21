@@ -16,6 +16,7 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 
 # DESIGN:
+<img width="1557" height="1600" alt="image" src="https://github.com/user-attachments/assets/dba8aa0b-8674-40b8-8e17-07646365c060" />
 
 # INTEGRATOR CIRCUIT DIAGRAM
 <img width="446" height="270" alt="image" src="https://github.com/user-attachments/assets/521ab839-8846-49d0-bc6d-d8b2105934f3" />
@@ -28,6 +29,7 @@ The integrator is most commonly used in analog computers and ADC and signal-wave
 <img width="678" height="358" alt="image" src="https://github.com/user-attachments/assets/3a9d9a97-3057-49e5-8622-3d4862b8a053" />
 
 # TABULATION:
+<img width="1600" height="805" alt="image" src="https://github.com/user-attachments/assets/0c3cf080-dd71-4861-8ce9-403c0f6454a6" />
 
 # THEORY:
 # DIFFEERENTIATOR:
@@ -41,6 +43,7 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 # DESIGN:
+![Uploading image.png…]()
 
 # DIFFERENTIATOR CIRCUIT DIAGRAM
 <img width="485" height="264" alt="image" src="https://github.com/user-attachments/assets/f5242bb4-723a-447c-85a9-02798491222b" />
@@ -54,6 +57,7 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 
 
 # TABULATION:
+<img width="1600" height="820" alt="image" src="https://github.com/user-attachments/assets/02701caf-46f1-437a-bfc3-5b00e313019c" />
 
 # PROCEDURE:
 1. Connections are given as per the circuit diagram
@@ -64,13 +68,14 @@ RESULT:
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
 
 # INTEGRATOR GRAPH
+<img width="1600" height="1056" alt="image" src="https://github.com/user-attachments/assets/4b5f5bdb-e308-4129-ba8a-820cbaa55ade" />
+
 
 # DIFFERENTIATOR GRAPH
-
+<img width="1600" height="870" alt="image" src="https://github.com/user-attachments/assets/674130b1-8e12-4e15-9fdd-53b2fc38f872" />
 
 # RESULT:
-
-
+<img width="1600" height="969" alt="image" src="https://github.com/user-attachments/assets/5dc05837-6de0-43ec-9d79-98787495bf8a" />
 
 
 
