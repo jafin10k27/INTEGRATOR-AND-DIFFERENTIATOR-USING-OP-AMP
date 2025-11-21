@@ -68,14 +68,14 @@ RESULT:
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
 
 # INTEGRATOR GRAPH
-<img width="1600" height="1056" alt="image" src="https://github.com/user-attachments/assets/4b5f5bdb-e308-4129-ba8a-820cbaa55ade" />
+<img width="1600" height="870" alt="image" src="https://github.com/user-attachments/assets/674130b1-8e12-4e15-9fdd-53b2fc38f872" />
 
 
 # DIFFERENTIATOR GRAPH
-<img width="1600" height="870" alt="image" src="https://github.com/user-attachments/assets/674130b1-8e12-4e15-9fdd-53b2fc38f872" />
+<img width="1600" height="969" alt="image" src="https://github.com/user-attachments/assets/5dc05837-6de0-43ec-9d79-98787495bf8a" />
 
 # RESULT:
-<img width="1600" height="969" alt="image" src="https://github.com/user-attachments/assets/5dc05837-6de0-43ec-9d79-98787495bf8a" />
+<img width="1600" height="1056" alt="image" src="https://github.com/user-attachments/assets/4b5f5bdb-e308-4129-ba8a-820cbaa55ade" />
 
 
 
